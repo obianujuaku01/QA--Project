@@ -25,7 +25,8 @@ Future improvements I would make:
 •	Run unit tests.
 •	Build the Docker images.
 •	Push the Docker images to a registry.
-•	Deploy to a Swarm.
+•	Deploy to a Swarm
+viewing my web page, my vm confirmed its running on port 5000 but I couldnt view it.
 
 
 [FULL CODE FOR THE CRUD APPLICATION.pdf](https://github.com/obianujuaku01/QA--Project/files/9896540/FULL.CODE.FOR.THE.CRUD.APPLICATION.pdf)
